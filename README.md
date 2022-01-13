@@ -1,8 +1,8 @@
-CMPT 332
-Assignment 1
-October 1, 2021
-Heather Caswell | Trang Nguyen
-hec626 | len054
+CMPT 332\
+Assignment 1\
+October 1, 2021\
+Heather Caswell | Trang Nguyen\
+hec626 | len054\
 
 # Weird Shell
 
